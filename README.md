@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://github.com/mogrady-professional/React_Task_Tracker_Application/blob/master/src/Capture.PNG" width="50%"/>
 
 ## Available Scripts
 
