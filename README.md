@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img src="https://github.com/mogrady-professional/React_Global_Currency_Converter/blob/master/src/Capture.PNG" width="50%"/>
+<img src="https://github.com/mogrady-professional/React_Global_Currency_Converter/blob/master/src/Capture.PNG" width="100%"/>
 
 ## Available Scripts
 
